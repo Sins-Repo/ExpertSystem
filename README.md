@@ -6,5 +6,5 @@ A simple program built according to the decision tree below. <br/><br/>
 <br/>
 
 Sample output <br/>
-**Case B**
+**Case B** <br/>
 <img src="img/projdev_b.PNG" width=400>
