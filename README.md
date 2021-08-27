@@ -5,6 +5,6 @@ A simple program built according to the decision tree below. <br/><br/>
 
 <br/>
 
-Sample output
+Sample output <br/>
 **Case B**
 <img src="img/projdev_b.PNG" width=400>
