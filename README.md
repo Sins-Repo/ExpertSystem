@@ -1,6 +1,18 @@
 # Expert System
 Table of Content
-* [Project Development](#ProjectDevelopment)
+* [How to run](#Guideline)
+* [Task I : Project Development](#ProjectDevelopment)
+
+<br/>
+
+### Guideline
+How to run the code? 
+1. Make sure you have CLIPSIDE64 installed in your PC
+2. Load the `.CL` file 
+3. Select all lines
+4. Press ctrl + k
+5. Hit `(reset)` and `(run)` in the Dialog Window 
+6. Hit `(clear)` to delete all rules and facts
 
 <br/>
 
