@@ -5,7 +5,7 @@ Table of Content
 
 <br/>
 
-### Guideline
+# Guideline
 How to run the code? 
 1. Make sure you have CLIPSIDE64 installed in your PC
 2. Load the `.CL` file 
@@ -16,13 +16,13 @@ How to run the code?
 
 <br/>
 
-### ProjectDevelopment
+# ProjectDevelopment
 A simple program built according to the decision tree below. <br/><br/>
 <img src="img/projdev_dt.PNG" width=700>
 
 <br/>
 
-Sample output <br/>
+### Sample output 
 **Case B** <br/>
 <img src="img/projdev_b.PNG" width=400>
 
@@ -30,3 +30,16 @@ Sample output <br/>
 
 **Case E** <br/>
 <img src="img/projdev_e.PNG" width=400>
+
+### Alternative
+Not compulsory to include all the conditions
+```
+(defrule moretime
+  (startup-budget yes)
+  (known-champion yes)
+  (clear-scope yes)
+  (achievable-timescale no)
+  =>
+  (printout t "Get more time" crlf)
+)
+```
