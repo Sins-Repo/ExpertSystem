@@ -31,6 +31,8 @@ A simple program built according to the decision tree below. <br/><br/>
 **Case E** <br/>
 <img src="img/projdev_e.PNG" width=400>
 
+<br/>
+
 ### Alternative
 Not compulsory to include all the conditions
 ```
