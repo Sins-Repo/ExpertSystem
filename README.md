@@ -18,7 +18,7 @@ How to run the code?
 <br/>
 
 # ProjectDevelopment
-A simple program built according to the decision tree below. <br/><br/>
+A simple program built according to the decision tree below. Code can be found [here](https://github.com/Sins-Repo/ExpertSystem/blob/main/proj_dev.CLP) <br/><br/>
 <img src="img/projdev_dt.PNG" width=700>
 
 <br/>
