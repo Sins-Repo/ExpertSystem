@@ -51,7 +51,7 @@ Not compulsory to include all the conditions
 <br/>
 
 # MedicalDiagnosis
-A program that performs Hepatitis B prediction <br/><br/>
+A program that performs Hepatitis B prediction. Code can be found [here](https://github.com/Sins-Repo/ExpertSystem/blob/main/med_diag.CLP) <br/><br/>
 <img src="img/meddiag_dt.PNG" width=700>
 
 <br/>
