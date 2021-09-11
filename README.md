@@ -2,6 +2,7 @@
 Table of Content
 * [How to run](#Guideline)
 * [Task I : Project Development](#ProjectDevelopment)
+* [Task II: Medical Diagnosis](#MedicalDiagnosis)
 
 <br/>
 
@@ -45,3 +46,12 @@ Not compulsory to include all the conditions
   (printout t "Get more time" crlf)
 )
 ```
+
+<br/>
+<br/>
+
+# MedicalDiagnosis
+A program that performs Hepatitis B prediction <br/><br/>
+<img src="img/meddiag_dt.PNG" width=700>
+
+<br/>
